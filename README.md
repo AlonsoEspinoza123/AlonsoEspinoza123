@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**AlonsoEspinoza123/AlonsoEspinoza123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+#HORARIO
+
+| LUNES                 | MARTES                           | MIERCOLES                        | JUEVES                            | VIERNES                          |
+|-----------------------|----------------------------------|----------------------------------|-----------------------------------|----------------------------------|
+| comunidades virtuales | Mantenimiento y redes de computo | Mantenimiento y redes de computo | fisica II                         | Mantenimiento y redes de computo |
+| fisica II             | biologia II                      | biologia II                      | actividades fiscas y recreativas  | biologia II                      |
+| matematicas IV        | fisica II                        | literatura II                    | matemaicas IV                     | matematicas IV                   |
+| literatura II         | matematicas IV                   | fisica II                        | mantenimiento y redes de computo  | fisica II                        |
+|                       |                                  |                                  |                                   |                                  |
+| ingles IV             | comunidades virtuales            | orientacion educativa            | ingles IV                         | historia de mexico II            |
+| historia de mexico II | comunidades virtuales            | matematicas IV                   | historia de mexico !!             | literatura II                    |
+|                       |                                  |                                  | biologia II                       | ingles IV                        |
